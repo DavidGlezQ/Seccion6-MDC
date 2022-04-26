@@ -1,8 +1,6 @@
 <resources>
     <string name="app_name">Seccion6-MDC</string>
     <string name="large_text">
-        "Material is the metaphor.\n\n"
-
         "A material metaphor is the unifying theory of a rationalized space and a system of motion."
         "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
         "technologically advanced and open to imagination and magic.\n"
@@ -91,4 +89,10 @@
     </string>
     <string name="action_settings">Settings</string>
     <string name="add_task">Add task</string>
+    <string name="card_btn_buy">Buy</string>
+    <string name="card_btn_skip">Skip</string>
+    <string name="card_title">Black Friday</string>
+    <string name="card_input_url">Image URL</string>
+    <string name="card_required">Required</string>
+    <string name="card_password">Password</string>
 </resources>
