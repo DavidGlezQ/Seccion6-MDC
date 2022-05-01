@@ -95,4 +95,8 @@
     <string name="card_input_url">Image URL</string>
     <string name="card_required">Required</string>
     <string name="card_password">Password</string>
+    <string name="enabled_pass">Enabled Password</string>
+    <string name="card_toggle_red">Red</string>
+    <string name="card_toggle_blue">BLue</string>
+    <string name="card_toggle_green">Green</string>
 </resources>
